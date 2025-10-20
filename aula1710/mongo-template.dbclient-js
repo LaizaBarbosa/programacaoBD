@@ -1,0 +1,339 @@
+// show databases;
+// use local;
+// use collection;
+
+db('db_aula').collection('clientes').find({}).limit(100).toArray();
+
+db('db_aula').collection('clientes').insertOne(
+    {
+        codigo: 2,
+        nome: "maria joselina",
+        telefone: "(11) 12345-6789",
+        endereco: "avenida eusebio"
+    }
+)
+
+db('db_aula').collection('clientes').find();
+
+
+db('db_aula').collection('clientes').find(
+    {
+        codigo: 1
+    }
+);
+
+db('db_aula').collection('ator').find();
+
+// importado do banco sakila no formato json
+db('db_aula').collection('ator').insertMany(
+        [
+            {
+                "codigo" : 1,
+                "nome" : "PENELOPE GUINESS"
+            },
+            {
+                "codigo" : 2,
+                "nome" : "NICK WAHLBERG"
+            },
+            {
+                "codigo" : 3,
+                "nome" : "ED CHASE"
+            },
+            {
+                "codigo" : 4,
+                "nome" : "JENNIFER DAVIS"
+            },
+            {
+                "codigo" : 5,
+                "nome" : "JOHNNY LOLLOBRIGIDA"
+            },
+            {
+                "codigo" : 6,
+                "nome" : "BETTE NICHOLSON"
+            },
+            {
+                "codigo" : 7,
+                "nome" : "GRACE MOSTEL"
+            },
+            {
+                "codigo" : 8,
+                "nome" : "MATTHEW JOHANSSON"
+            },
+            {
+                "codigo" : 9,
+                "nome" : "JOE SWANK"
+            },
+            {
+                "codigo" : 10,
+                "nome" : "CHRISTIAN GABLE"
+            },
+            {
+                "codigo" : 11,
+                "nome" : "ZERO CAGE"
+            },
+            {
+                "codigo" : 12,
+                "nome" : "KARL BERRY"
+            },
+            {
+                "codigo" : 13,
+                "nome" : "UMA WOOD"
+            },
+            {
+                "codigo" : 14,
+                "nome" : "VIVIEN BERGEN"
+            },
+            {
+                "codigo" : 15,
+                "nome" : "CUBA OLIVIER"
+            },
+            {
+                "codigo" : 16,
+                "nome" : "FRED COSTNER"
+            },
+            {
+                "codigo" : 17,
+                "nome" : "HELEN VOIGHT"
+            },
+            {
+                "codigo" : 18,
+                "nome" : "DAN TORN"
+            },
+            {
+                "codigo" : 19,
+                "nome" : "BOB FAWCETT"
+            },
+            {
+                "codigo" : 20,
+                "nome" : "LUCILLE TRACY"
+            },
+            {
+                "codigo" : 21,
+                "nome" : "KIRSTEN PALTROW"
+            },
+            {
+                "codigo" : 22,
+                "nome" : "ELVIS MARX"
+            },
+            {
+                "codigo" : 23,
+                "nome" : "SANDRA KILMER"
+            },
+            {
+                "codigo" : 24,
+                "nome" : "CAMERON STREEP"
+            },
+            {
+                "codigo" : 25,
+                "nome" : "KEVIN BLOOM"
+            },
+            {
+                "codigo" : 26,
+                "nome" : "RIP CRAWFORD"
+            },
+            {
+                "codigo" : 27,
+                "nome" : "JULIA MCQUEEN"
+            },
+            {
+                "codigo" : 28,
+                "nome" : "WOODY HOFFMAN"
+            },
+            {
+                "codigo" : 29,
+                "nome" : "ALEC WAYNE"
+            },
+            {
+                "codigo" : 30,
+                "nome" : "SANDRA PECK"
+            },
+            {
+                "codigo" : 31,
+                "nome" : "SISSY SOBIESKI"
+            },
+            {
+                "codigo" : 32,
+                "nome" : "TIM HACKMAN"
+            },
+            {
+                "codigo" : 33,
+                "nome" : "MILLA PECK"
+            },
+            {
+                "codigo" : 34,
+                "nome" : "AUDREY OLIVIER"
+            },
+            {
+                "codigo" : 35,
+                "nome" : "JUDY DEAN"
+            },
+            {
+                "codigo" : 36,
+                "nome" : "BURT DUKAKIS"
+            },
+            {
+                "codigo" : 37,
+                "nome" : "VAL BOLGER"
+            },
+            {
+                "codigo" : 38,
+                "nome" : "TOM MCKELLEN"
+            },
+            {
+                "codigo" : 39,
+                "nome" : "GOLDIE BRODY"
+            },
+            {
+                "codigo" : 40,
+                "nome" : "JOHNNY CAGE"
+            },
+            {
+                "codigo" : 41,
+                "nome" : "JODIE DEGENERES"
+            },
+            {
+                "codigo" : 42,
+                "nome" : "TOM MIRANDA"
+            },
+            {
+                "codigo" : 43,
+                "nome" : "KIRK JOVOVICH"
+            },
+            {
+                "codigo" : 44,
+                "nome" : "NICK STALLONE"
+            },
+            {
+                "codigo" : 45,
+                "nome" : "REESE KILMER"
+            },
+            {
+                "codigo" : 46,
+                "nome" : "PARKER GOLDBERG"
+            },
+            {
+                "codigo" : 47,
+                "nome" : "JULIA BARRYMORE"
+            },
+            {
+                "codigo" : 48,
+                "nome" : "FRANCES DAY-LEWIS"
+            },
+            {
+                "codigo" : 49,
+                "nome" : "ANNE CRONYN"
+            },
+            {
+                "codigo" : 50,
+                "nome" : "NATALIE HOPKINS"
+            },
+            {
+                "codigo" : 51,
+                "nome" : "GARY PHOENIX"
+            },
+            {
+                "codigo" : 52,
+                "nome" : "CARMEN HUNT"
+            },
+            {
+                "codigo" : 53,
+                "nome" : "MENA TEMPLE"
+            },
+            {
+                "codigo" : 54,
+                "nome" : "PENELOPE PINKETT"
+            },
+            {
+                "codigo" : 55,
+                "nome" : "FAY KILMER"
+            },
+            {
+                "codigo" : 56,
+                "nome" : "DAN HARRIS"
+            },
+            {
+                "codigo" : 57,
+                "nome" : "JUDE CRUISE"
+            },
+            {
+                "codigo" : 58,
+                "nome" : "CHRISTIAN AKROYD"
+            },
+            {
+                "codigo" : 59,
+                "nome" : "DUSTIN TAUTOU"
+            },
+            {
+                "codigo" : 60,
+                "nome" : "HENRY BERRY"
+            },
+            {
+                "codigo" : 61,
+                "nome" : "CHRISTIAN NEESON"
+            },
+            {
+                "codigo" : 62,
+                "nome" : "JAYNE NEESON"
+            },
+            {
+                "codigo" : 63,
+                "nome" : "CAMERON WRAY"
+            },
+            {
+                "codigo" : 64,
+                "nome" : "RAY JOHANSSON"
+            },
+            {
+                "codigo" : 65,
+                "nome" : "ANGELA HUDSON"
+            }
+        ]
+)
+
+db('db_aula').collection('customer').insertMany(
+    [
+        {
+            "nome" : "VERA MCCOY",
+            "endereco" : "1168 Najafabad Parkway, Distrito: Kabol. Codigo postal: 40301, cidade: Kabul - Afghanistan"
+        },
+        {
+            "nome" : "MARIO CHEATHAM",
+            "endereco" : "1924 Shimonoseki Drive, Distrito: Batna. Codigo postal: 52625, cidade: Batna - Algeria"
+        },
+        {
+            "nome" : "JUDY GRAY",
+            "endereco" : "1031 Daugavpils Parkway, Distrito: Béchar. Codigo postal: 59025, cidade: Béchar - Algeria"
+        },
+        {
+            "nome" : "JUNE CARROLL",
+            "endereco" : "757 Rustenburg Avenue, Distrito: Skikda. Codigo postal: 89668, cidade: Skikda - Algeria"
+        },
+        {
+            "nome" : "ANTHONY SCHWAB",
+            "endereco" : "1892 Nabereznyje Telny Lane, Distrito: Tutuila. Codigo postal: 28396, cidade: Tafuna - American Samoa"
+        },
+        {
+            "nome" : "CLAUDE HERZOG",
+            "endereco" : "486 Ondo Parkway, Distrito: Benguela. Codigo postal: 35202, cidade: Benguela - Angola"
+        },
+        {
+            "nome" : "MARTIN BALES",
+            "endereco" : "368 Hunuco Boulevard, Distrito: Namibe. Codigo postal: 17165, cidade: Namibe - Angola"
+        },
+        {
+            "nome" : "BOBBY BOUDREAU",
+            "endereco" : "1368 Maracabo Boulevard, Distrito: . Codigo postal: 32716, cidade: South Hill - Anguilla"
+        },
+        {
+            "nome" : "WILLIE MARKHAM",
+            "endereco" : "1623 Kingstown Drive, Distrito: Buenos Aires. Codigo postal: 91299, cidade: Almirante Brown - Argentina"
+        },
+        {
+            "nome" : "JORDAN ARCHULETA",
+            "endereco" : "1229 Varanasi (Benares) Manor, Distrito: Buenos Aires. Codigo postal: 40195, cidade: Avellaneda - Argentina"
+        }
+    ]
+    
+)
+
+db('db_aula').collection('customer').find();

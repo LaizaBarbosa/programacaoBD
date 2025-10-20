@@ -1,0 +1,802 @@
+[
+	{
+		"codigo" : 1,
+		"nome" : "PENELOPE GUINESS"
+	},
+	{
+		"codigo" : 2,
+		"nome" : "NICK WAHLBERG"
+	},
+	{
+		"codigo" : 3,
+		"nome" : "ED CHASE"
+	},
+	{
+		"codigo" : 4,
+		"nome" : "JENNIFER DAVIS"
+	},
+	{
+		"codigo" : 5,
+		"nome" : "JOHNNY LOLLOBRIGIDA"
+	},
+	{
+		"codigo" : 6,
+		"nome" : "BETTE NICHOLSON"
+	},
+	{
+		"codigo" : 7,
+		"nome" : "GRACE MOSTEL"
+	},
+	{
+		"codigo" : 8,
+		"nome" : "MATTHEW JOHANSSON"
+	},
+	{
+		"codigo" : 9,
+		"nome" : "JOE SWANK"
+	},
+	{
+		"codigo" : 10,
+		"nome" : "CHRISTIAN GABLE"
+	},
+	{
+		"codigo" : 11,
+		"nome" : "ZERO CAGE"
+	},
+	{
+		"codigo" : 12,
+		"nome" : "KARL BERRY"
+	},
+	{
+		"codigo" : 13,
+		"nome" : "UMA WOOD"
+	},
+	{
+		"codigo" : 14,
+		"nome" : "VIVIEN BERGEN"
+	},
+	{
+		"codigo" : 15,
+		"nome" : "CUBA OLIVIER"
+	},
+	{
+		"codigo" : 16,
+		"nome" : "FRED COSTNER"
+	},
+	{
+		"codigo" : 17,
+		"nome" : "HELEN VOIGHT"
+	},
+	{
+		"codigo" : 18,
+		"nome" : "DAN TORN"
+	},
+	{
+		"codigo" : 19,
+		"nome" : "BOB FAWCETT"
+	},
+	{
+		"codigo" : 20,
+		"nome" : "LUCILLE TRACY"
+	},
+	{
+		"codigo" : 21,
+		"nome" : "KIRSTEN PALTROW"
+	},
+	{
+		"codigo" : 22,
+		"nome" : "ELVIS MARX"
+	},
+	{
+		"codigo" : 23,
+		"nome" : "SANDRA KILMER"
+	},
+	{
+		"codigo" : 24,
+		"nome" : "CAMERON STREEP"
+	},
+	{
+		"codigo" : 25,
+		"nome" : "KEVIN BLOOM"
+	},
+	{
+		"codigo" : 26,
+		"nome" : "RIP CRAWFORD"
+	},
+	{
+		"codigo" : 27,
+		"nome" : "JULIA MCQUEEN"
+	},
+	{
+		"codigo" : 28,
+		"nome" : "WOODY HOFFMAN"
+	},
+	{
+		"codigo" : 29,
+		"nome" : "ALEC WAYNE"
+	},
+	{
+		"codigo" : 30,
+		"nome" : "SANDRA PECK"
+	},
+	{
+		"codigo" : 31,
+		"nome" : "SISSY SOBIESKI"
+	},
+	{
+		"codigo" : 32,
+		"nome" : "TIM HACKMAN"
+	},
+	{
+		"codigo" : 33,
+		"nome" : "MILLA PECK"
+	},
+	{
+		"codigo" : 34,
+		"nome" : "AUDREY OLIVIER"
+	},
+	{
+		"codigo" : 35,
+		"nome" : "JUDY DEAN"
+	},
+	{
+		"codigo" : 36,
+		"nome" : "BURT DUKAKIS"
+	},
+	{
+		"codigo" : 37,
+		"nome" : "VAL BOLGER"
+	},
+	{
+		"codigo" : 38,
+		"nome" : "TOM MCKELLEN"
+	},
+	{
+		"codigo" : 39,
+		"nome" : "GOLDIE BRODY"
+	},
+	{
+		"codigo" : 40,
+		"nome" : "JOHNNY CAGE"
+	},
+	{
+		"codigo" : 41,
+		"nome" : "JODIE DEGENERES"
+	},
+	{
+		"codigo" : 42,
+		"nome" : "TOM MIRANDA"
+	},
+	{
+		"codigo" : 43,
+		"nome" : "KIRK JOVOVICH"
+	},
+	{
+		"codigo" : 44,
+		"nome" : "NICK STALLONE"
+	},
+	{
+		"codigo" : 45,
+		"nome" : "REESE KILMER"
+	},
+	{
+		"codigo" : 46,
+		"nome" : "PARKER GOLDBERG"
+	},
+	{
+		"codigo" : 47,
+		"nome" : "JULIA BARRYMORE"
+	},
+	{
+		"codigo" : 48,
+		"nome" : "FRANCES DAY-LEWIS"
+	},
+	{
+		"codigo" : 49,
+		"nome" : "ANNE CRONYN"
+	},
+	{
+		"codigo" : 50,
+		"nome" : "NATALIE HOPKINS"
+	},
+	{
+		"codigo" : 51,
+		"nome" : "GARY PHOENIX"
+	},
+	{
+		"codigo" : 52,
+		"nome" : "CARMEN HUNT"
+	},
+	{
+		"codigo" : 53,
+		"nome" : "MENA TEMPLE"
+	},
+	{
+		"codigo" : 54,
+		"nome" : "PENELOPE PINKETT"
+	},
+	{
+		"codigo" : 55,
+		"nome" : "FAY KILMER"
+	},
+	{
+		"codigo" : 56,
+		"nome" : "DAN HARRIS"
+	},
+	{
+		"codigo" : 57,
+		"nome" : "JUDE CRUISE"
+	},
+	{
+		"codigo" : 58,
+		"nome" : "CHRISTIAN AKROYD"
+	},
+	{
+		"codigo" : 59,
+		"nome" : "DUSTIN TAUTOU"
+	},
+	{
+		"codigo" : 60,
+		"nome" : "HENRY BERRY"
+	},
+	{
+		"codigo" : 61,
+		"nome" : "CHRISTIAN NEESON"
+	},
+	{
+		"codigo" : 62,
+		"nome" : "JAYNE NEESON"
+	},
+	{
+		"codigo" : 63,
+		"nome" : "CAMERON WRAY"
+	},
+	{
+		"codigo" : 64,
+		"nome" : "RAY JOHANSSON"
+	},
+	{
+		"codigo" : 65,
+		"nome" : "ANGELA HUDSON"
+	},
+	{
+		"codigo" : 66,
+		"nome" : "MARY TANDY"
+	},
+	{
+		"codigo" : 67,
+		"nome" : "JESSICA BAILEY"
+	},
+	{
+		"codigo" : 68,
+		"nome" : "RIP WINSLET"
+	},
+	{
+		"codigo" : 69,
+		"nome" : "KENNETH PALTROW"
+	},
+	{
+		"codigo" : 70,
+		"nome" : "MICHELLE MCCONAUGHEY"
+	},
+	{
+		"codigo" : 71,
+		"nome" : "ADAM GRANT"
+	},
+	{
+		"codigo" : 72,
+		"nome" : "SEAN WILLIAMS"
+	},
+	{
+		"codigo" : 73,
+		"nome" : "GARY PENN"
+	},
+	{
+		"codigo" : 74,
+		"nome" : "MILLA KEITEL"
+	},
+	{
+		"codigo" : 75,
+		"nome" : "BURT POSEY"
+	},
+	{
+		"codigo" : 76,
+		"nome" : "ANGELINA ASTAIRE"
+	},
+	{
+		"codigo" : 77,
+		"nome" : "CARY MCCONAUGHEY"
+	},
+	{
+		"codigo" : 78,
+		"nome" : "GROUCHO SINATRA"
+	},
+	{
+		"codigo" : 79,
+		"nome" : "MAE HOFFMAN"
+	},
+	{
+		"codigo" : 80,
+		"nome" : "RALPH CRUZ"
+	},
+	{
+		"codigo" : 81,
+		"nome" : "SCARLETT DAMON"
+	},
+	{
+		"codigo" : 82,
+		"nome" : "WOODY JOLIE"
+	},
+	{
+		"codigo" : 83,
+		"nome" : "BEN WILLIS"
+	},
+	{
+		"codigo" : 84,
+		"nome" : "JAMES PITT"
+	},
+	{
+		"codigo" : 85,
+		"nome" : "MINNIE ZELLWEGER"
+	},
+	{
+		"codigo" : 86,
+		"nome" : "GREG CHAPLIN"
+	},
+	{
+		"codigo" : 87,
+		"nome" : "SPENCER PECK"
+	},
+	{
+		"codigo" : 88,
+		"nome" : "KENNETH PESCI"
+	},
+	{
+		"codigo" : 89,
+		"nome" : "CHARLIZE DENCH"
+	},
+	{
+		"codigo" : 90,
+		"nome" : "SEAN GUINESS"
+	},
+	{
+		"codigo" : 91,
+		"nome" : "CHRISTOPHER BERRY"
+	},
+	{
+		"codigo" : 92,
+		"nome" : "KIRSTEN AKROYD"
+	},
+	{
+		"codigo" : 93,
+		"nome" : "ELLEN PRESLEY"
+	},
+	{
+		"codigo" : 94,
+		"nome" : "KENNETH TORN"
+	},
+	{
+		"codigo" : 95,
+		"nome" : "DARYL WAHLBERG"
+	},
+	{
+		"codigo" : 96,
+		"nome" : "GENE WILLIS"
+	},
+	{
+		"codigo" : 97,
+		"nome" : "MEG HAWKE"
+	},
+	{
+		"codigo" : 98,
+		"nome" : "CHRIS BRIDGES"
+	},
+	{
+		"codigo" : 99,
+		"nome" : "JIM MOSTEL"
+	},
+	{
+		"codigo" : 100,
+		"nome" : "SPENCER DEPP"
+	},
+	{
+		"codigo" : 101,
+		"nome" : "SUSAN DAVIS"
+	},
+	{
+		"codigo" : 102,
+		"nome" : "WALTER TORN"
+	},
+	{
+		"codigo" : 103,
+		"nome" : "MATTHEW LEIGH"
+	},
+	{
+		"codigo" : 104,
+		"nome" : "PENELOPE CRONYN"
+	},
+	{
+		"codigo" : 105,
+		"nome" : "SIDNEY CROWE"
+	},
+	{
+		"codigo" : 106,
+		"nome" : "GROUCHO DUNST"
+	},
+	{
+		"codigo" : 107,
+		"nome" : "GINA DEGENERES"
+	},
+	{
+		"codigo" : 108,
+		"nome" : "WARREN NOLTE"
+	},
+	{
+		"codigo" : 109,
+		"nome" : "SYLVESTER DERN"
+	},
+	{
+		"codigo" : 110,
+		"nome" : "SUSAN DAVIS"
+	},
+	{
+		"codigo" : 111,
+		"nome" : "CAMERON ZELLWEGER"
+	},
+	{
+		"codigo" : 112,
+		"nome" : "RUSSELL BACALL"
+	},
+	{
+		"codigo" : 113,
+		"nome" : "MORGAN HOPKINS"
+	},
+	{
+		"codigo" : 114,
+		"nome" : "MORGAN MCDORMAND"
+	},
+	{
+		"codigo" : 115,
+		"nome" : "HARRISON BALE"
+	},
+	{
+		"codigo" : 116,
+		"nome" : "DAN STREEP"
+	},
+	{
+		"codigo" : 117,
+		"nome" : "RENEE TRACY"
+	},
+	{
+		"codigo" : 118,
+		"nome" : "CUBA ALLEN"
+	},
+	{
+		"codigo" : 119,
+		"nome" : "WARREN JACKMAN"
+	},
+	{
+		"codigo" : 120,
+		"nome" : "PENELOPE MONROE"
+	},
+	{
+		"codigo" : 121,
+		"nome" : "LIZA BERGMAN"
+	},
+	{
+		"codigo" : 122,
+		"nome" : "SALMA NOLTE"
+	},
+	{
+		"codigo" : 123,
+		"nome" : "JULIANNE DENCH"
+	},
+	{
+		"codigo" : 124,
+		"nome" : "SCARLETT BENING"
+	},
+	{
+		"codigo" : 125,
+		"nome" : "ALBERT NOLTE"
+	},
+	{
+		"codigo" : 126,
+		"nome" : "FRANCES TOMEI"
+	},
+	{
+		"codigo" : 127,
+		"nome" : "KEVIN GARLAND"
+	},
+	{
+		"codigo" : 128,
+		"nome" : "CATE MCQUEEN"
+	},
+	{
+		"codigo" : 129,
+		"nome" : "DARYL CRAWFORD"
+	},
+	{
+		"codigo" : 130,
+		"nome" : "GRETA KEITEL"
+	},
+	{
+		"codigo" : 131,
+		"nome" : "JANE JACKMAN"
+	},
+	{
+		"codigo" : 132,
+		"nome" : "ADAM HOPPER"
+	},
+	{
+		"codigo" : 133,
+		"nome" : "RICHARD PENN"
+	},
+	{
+		"codigo" : 134,
+		"nome" : "GENE HOPKINS"
+	},
+	{
+		"codigo" : 135,
+		"nome" : "RITA REYNOLDS"
+	},
+	{
+		"codigo" : 136,
+		"nome" : "ED MANSFIELD"
+	},
+	{
+		"codigo" : 137,
+		"nome" : "MORGAN WILLIAMS"
+	},
+	{
+		"codigo" : 138,
+		"nome" : "LUCILLE DEE"
+	},
+	{
+		"codigo" : 139,
+		"nome" : "EWAN GOODING"
+	},
+	{
+		"codigo" : 140,
+		"nome" : "WHOOPI HURT"
+	},
+	{
+		"codigo" : 141,
+		"nome" : "CATE HARRIS"
+	},
+	{
+		"codigo" : 142,
+		"nome" : "JADA RYDER"
+	},
+	{
+		"codigo" : 143,
+		"nome" : "RIVER DEAN"
+	},
+	{
+		"codigo" : 144,
+		"nome" : "ANGELA WITHERSPOON"
+	},
+	{
+		"codigo" : 145,
+		"nome" : "KIM ALLEN"
+	},
+	{
+		"codigo" : 146,
+		"nome" : "ALBERT JOHANSSON"
+	},
+	{
+		"codigo" : 147,
+		"nome" : "FAY WINSLET"
+	},
+	{
+		"codigo" : 148,
+		"nome" : "EMILY DEE"
+	},
+	{
+		"codigo" : 149,
+		"nome" : "RUSSELL TEMPLE"
+	},
+	{
+		"codigo" : 150,
+		"nome" : "JAYNE NOLTE"
+	},
+	{
+		"codigo" : 151,
+		"nome" : "GEOFFREY HESTON"
+	},
+	{
+		"codigo" : 152,
+		"nome" : "BEN HARRIS"
+	},
+	{
+		"codigo" : 153,
+		"nome" : "MINNIE KILMER"
+	},
+	{
+		"codigo" : 154,
+		"nome" : "MERYL GIBSON"
+	},
+	{
+		"codigo" : 155,
+		"nome" : "IAN TANDY"
+	},
+	{
+		"codigo" : 156,
+		"nome" : "FAY WOOD"
+	},
+	{
+		"codigo" : 157,
+		"nome" : "GRETA MALDEN"
+	},
+	{
+		"codigo" : 158,
+		"nome" : "VIVIEN BASINGER"
+	},
+	{
+		"codigo" : 159,
+		"nome" : "LAURA BRODY"
+	},
+	{
+		"codigo" : 160,
+		"nome" : "CHRIS DEPP"
+	},
+	{
+		"codigo" : 161,
+		"nome" : "HARVEY HOPE"
+	},
+	{
+		"codigo" : 162,
+		"nome" : "OPRAH KILMER"
+	},
+	{
+		"codigo" : 163,
+		"nome" : "CHRISTOPHER WEST"
+	},
+	{
+		"codigo" : 164,
+		"nome" : "HUMPHREY WILLIS"
+	},
+	{
+		"codigo" : 165,
+		"nome" : "AL GARLAND"
+	},
+	{
+		"codigo" : 166,
+		"nome" : "NICK DEGENERES"
+	},
+	{
+		"codigo" : 167,
+		"nome" : "LAURENCE BULLOCK"
+	},
+	{
+		"codigo" : 168,
+		"nome" : "WILL WILSON"
+	},
+	{
+		"codigo" : 169,
+		"nome" : "KENNETH HOFFMAN"
+	},
+	{
+		"codigo" : 170,
+		"nome" : "MENA HOPPER"
+	},
+	{
+		"codigo" : 171,
+		"nome" : "OLYMPIA PFEIFFER"
+	},
+	{
+		"codigo" : 172,
+		"nome" : "GROUCHO WILLIAMS"
+	},
+	{
+		"codigo" : 173,
+		"nome" : "ALAN DREYFUSS"
+	},
+	{
+		"codigo" : 174,
+		"nome" : "MICHAEL BENING"
+	},
+	{
+		"codigo" : 175,
+		"nome" : "WILLIAM HACKMAN"
+	},
+	{
+		"codigo" : 176,
+		"nome" : "JON CHASE"
+	},
+	{
+		"codigo" : 177,
+		"nome" : "GENE MCKELLEN"
+	},
+	{
+		"codigo" : 178,
+		"nome" : "LISA MONROE"
+	},
+	{
+		"codigo" : 179,
+		"nome" : "ED GUINESS"
+	},
+	{
+		"codigo" : 180,
+		"nome" : "JEFF SILVERSTONE"
+	},
+	{
+		"codigo" : 181,
+		"nome" : "MATTHEW CARREY"
+	},
+	{
+		"codigo" : 182,
+		"nome" : "DEBBIE AKROYD"
+	},
+	{
+		"codigo" : 183,
+		"nome" : "RUSSELL CLOSE"
+	},
+	{
+		"codigo" : 184,
+		"nome" : "HUMPHREY GARLAND"
+	},
+	{
+		"codigo" : 185,
+		"nome" : "MICHAEL BOLGER"
+	},
+	{
+		"codigo" : 186,
+		"nome" : "JULIA ZELLWEGER"
+	},
+	{
+		"codigo" : 187,
+		"nome" : "RENEE BALL"
+	},
+	{
+		"codigo" : 188,
+		"nome" : "ROCK DUKAKIS"
+	},
+	{
+		"codigo" : 189,
+		"nome" : "CUBA BIRCH"
+	},
+	{
+		"codigo" : 190,
+		"nome" : "AUDREY BAILEY"
+	},
+	{
+		"codigo" : 191,
+		"nome" : "GREGORY GOODING"
+	},
+	{
+		"codigo" : 192,
+		"nome" : "JOHN SUVARI"
+	},
+	{
+		"codigo" : 193,
+		"nome" : "BURT TEMPLE"
+	},
+	{
+		"codigo" : 194,
+		"nome" : "MERYL ALLEN"
+	},
+	{
+		"codigo" : 195,
+		"nome" : "JAYNE SILVERSTONE"
+	},
+	{
+		"codigo" : 196,
+		"nome" : "BELA WALKEN"
+	},
+	{
+		"codigo" : 197,
+		"nome" : "REESE WEST"
+	},
+	{
+		"codigo" : 198,
+		"nome" : "MARY KEITEL"
+	},
+	{
+		"codigo" : 199,
+		"nome" : "JULIA FAWCETT"
+	},
+	{
+		"codigo" : 200,
+		"nome" : "THORA TEMPLE"
+	}
+]
